@@ -1,0 +1,7 @@
+{
+    "email": "test@site.com",
+    "mailAuthN": {
+        "user": "test@site.com",
+        "pass": "******"
+    }
+}
